@@ -1,10 +1,7 @@
-# mini-data-explorer
-We are testing how to correctly document and follow processes we do in any environment to GitHub, in this specific case we are creating a Streamlit project using a synthetic CSV based on music and singers around the world.
-
-<h1 align="center">🚀 Nombre del Proyecto</h1>
+<h1 align="center">🚀 mini-data-explorer</h1>
 
 <p align="center">
-  <em>Una frase corta y clara que explique qué hace el proyecto.</em>
+  <em>We are testing how to correctly document and follow processes we do in any environment to GitHub, in this specific case we are creating a Streamlit project using a synthetic CSV based on music and singers around the world.</em>
 </p>
 
 <p align="center">
